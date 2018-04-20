@@ -1,7 +1,7 @@
 ![gx logo](logo.jpeg)
 
 # gx
-> The language-agnostic, universal package manager
+> The language-agnostic, universal package manager   可用于所有软件的带版本的包管理器
 
 [![](https://img.shields.io/badge/made%20by-Protocol%20Labs-blue.svg?style=flat-square)](http://protocol.ai) [![](https://img.shields.io/badge/freenode-%23gx-blue.svg?style=flat-square)](http://webchat.freenode.net/?channels=%23ipfs,%23gx)
 
